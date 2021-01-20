@@ -6,5 +6,6 @@ public class Boy {
     private String name;
     private Integer age;
     private Date time;
+    private String userA;
     private String userB;
 }
